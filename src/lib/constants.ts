@@ -44,21 +44,21 @@ export const pricingCards = [
     duration: 'month',
     highlight: 'Key features',
     features: ['Rebilling', '24/7 Support team'],
-    priceId: 'price_1OYxkqFj9oKEERu1KfJGWxgN',
+    priceId: 'price_1OuVxRSDJg8jYabX8dBF4Cv7',
   },
   {
     title: 'Basic',
     description: 'For serious agency owners',
-    price: '$49',
+    price: '$39',
     duration: 'month',
     highlight: 'Everything in Starter, plus',
     features: ['Unlimited Sub accounts', 'Unlimited Team members'],
-    priceId: 'price_1OYxkqFj9oKEERu1NbKUxXxN',
+    priceId: 'price_1OuVxRSDJg8jYabXAKPQYjjr',
   },
 ]
 
 export const addOnProducts = [
-  { title: 'Priority Support', id: 'prod_PNjJAE2EpP16pn' },
+  { title: 'Priority Support', id: 'prod_Pk0eIheVf0uduD' },
 ]
 
 export const icons = [
